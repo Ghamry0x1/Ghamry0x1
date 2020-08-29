@@ -11,7 +11,7 @@
 
 I'm a software engineer, with a can-do, on-time, and high-quality product spirit. I'm passionate about contributing to open-source projects to make the web a better place.
 
-<img align="right" src="https://media1.tenor.com/images/363fc6d5ee2bec72e29237fa08fb29fa/tenor.gif?itemid=17349971" width="215px">
+<img align="right" src="https://media1.tenor.com/images/363fc6d5ee2bec72e29237fa08fb29fa/tenor.gif?itemid=17349971" width="210px">
 
 ```javascript
 const ghamry = {
