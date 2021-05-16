@@ -35,13 +35,7 @@ const ghamry = {
 };
 ```
 
-## :zap: Github Stats
-
-<img alt="Ghamry0x1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ghamry0x1&show_icons=true" />
-
 ## Find me around the web 🌎
-
-<img width="150" height="150" src="https://github.com/Ghamry0x1/Ghamry0x1/blob/master/octoghamry/octocat.png?raw=true">
 
 [<img alt="Ghamry0x1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img alt="Ghamry0x1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
