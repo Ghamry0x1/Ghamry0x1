@@ -1,7 +1,6 @@
 # Hi, I'm Ghamry 👋🐱‍💻
 
 [![Linkedin: mohamedelghamry](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamedelghamry/)](https://www.linkedin.com/in/mohamedelghamry/)
-[![TwitterFollow: Ghamry0x1](https://img.shields.io/twitter/follow/ghamry0x1?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=ghamry0x1)
 [![FacebookProfile: Ghamry0x1](https://img.shields.io/badge/Add-%231877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://facebook.com/Ghamry0x1)](https://www.facebook.com/Ghamry0x1)
 [![InstagramProfile: mohamedelghamry](https://img.shields.io/badge/Follow-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mohamedelghamry/)](https://www.instagram.com/mohamedelghamry/)
 
